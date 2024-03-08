@@ -1,7 +1,9 @@
 # TestMaker
 
-### disclaimer
+### Disclaimer
 Every screen used in this file is in italian language as i made this while i was in italy during highschool but along with the description each image should be easily understandable
+
+## A small description of this repo content
 
 TestMaker is a simple project that i made in high school that allows the user to create a test on a determined subject or attempt one
 
